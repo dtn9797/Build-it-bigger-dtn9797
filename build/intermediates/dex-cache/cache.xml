@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/b43eebbc4ba808254e5475e9f68a1d87af56ace7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_dca792cfbd95e72d3f8ca40b1ca14fb4451334a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_280403a63469aaa21787634f5d88f10949e86050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/b43eebbc4ba808254e5475e9f68a1d87af56ace7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dca792cfbd95e72d3f8ca40b1ca14fb4451334a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/8e5cd524dd8bc9be207ff944d2700e347ae05ebb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2072910cd631f572e815079f6c5873c05da27c6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_280403a63469aaa21787634f5d88f10949e86050.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/2e110453b57006706769802543bfd63817b72d68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9712e36f46b36df2f97111a6e3fca9a01236b975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/2ba8c208d8d76d8ed2662e74fe0f5465d5aeafa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5aeacb9ed46ff943b336e504fbb1e839a0f4e17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_552efa1e5132ef866ef4da10c16adba52a522af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/8e5cd524dd8bc9be207ff944d2700e347ae05ebb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_2072910cd631f572e815079f6c5873c05da27c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/2ba8c208d8d76d8ed2662e74fe0f5465d5aeafa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_d5aeacb9ed46ff943b336e504fbb1e839a0f4e17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_4dcc6ce19bbc980ba55e1556009e7cfb380a9b7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/43adb82a7400d5d7e54e8c78723caa753d3ec194/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f14e56efc1d57e18af6d17f4b4041466c6694fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/dfe437d102a72e9e1806efe09dcee7a39bba7988/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a921d108ee99f42ab2228e7e47940a73e660ae06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23f2ea6fc24344a984daab868dd2a95c4a826916/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/dfe437d102a72e9e1806efe09dcee7a39bba7988/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_a921d108ee99f42ab2228e7e47940a73e660ae06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_4dcc6ce19bbc980ba55e1556009e7cfb380a9b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_23f2ea6fc24344a984daab868dd2a95c4a826916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/43adb82a7400d5d7e54e8c78723caa753d3ec194/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_f14e56efc1d57e18af6d17f4b4041466c6694fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/568ac48d2f4ec8075baf90674847424c9a06e6ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_4c500df1285e06d0ef02cc7c255f42b8ecc70ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_ea4d974f6532196360ed583181e26213bfaa3029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/2ec9d27ccc0c672bbf8df61d3cd53856999702ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_6f42191f7f5a1b1bd85f7e793091f580ac7014ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf1e91fa80057d52eb6eae90df6e52d228a0d7d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_ea4d974f6532196360ed583181e26213bfaa3029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/568ac48d2f4ec8075baf90674847424c9a06e6ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c500df1285e06d0ef02cc7c255f42b8ecc70ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/2ec9d27ccc0c672bbf8df61d3cd53856999702ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f42191f7f5a1b1bd85f7e793091f580ac7014ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_7ba4c62c3bb193de18af6a67734d8408a9557d0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c42f30cb42db115593a973a0bed9a26532050365">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7cd2f3d6e02131c9fe1a854e6a7ae44f9434a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f4cea41c5dfd94664ae67959d72a81cd7130339/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/7fab51dbb6d29719f7e8545925d63d4a09655e70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d7b91cc7883bd5604cd115090b4773ef3a0cd21/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/7fab51dbb6d29719f7e8545925d63d4a09655e70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_7d7b91cc7883bd5604cd115090b4773ef3a0cd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/880ed39a156001155c7c3f428dbe39f3b949dbbd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_4f0c167376108a5913bdbd0fb4bcc715f2ecc16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_552efa1e5132ef866ef4da10c16adba52a522af7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_f1b226d054257778c794be05f2765f4677f6086b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/880ed39a156001155c7c3f428dbe39f3b949dbbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f0c167376108a5913bdbd0fb4bcc715f2ecc16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/2e110453b57006706769802543bfd63817b72d68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_9712e36f46b36df2f97111a6e3fca9a01236b975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/volley_f1b226d054257778c794be05f2765f4677f6086b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/.android/build-cache/2094d07735ac805ba0d9373d9e2ed8699731ce6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56943da69b8fc6fa75184f2c1ad91ee871e59f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6300f949f349b67b42e9941c0e168399aa302c68">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1de31af99ceb669a6f84f55aac7a23fc3a8d9150/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/2094d07735ac805ba0d9373d9e2ed8699731ce6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/pre-dexed/debug/classes_56943da69b8fc6fa75184f2c1ad91ee871e59f8f.jar" />
+    </item>
+
+</items>
