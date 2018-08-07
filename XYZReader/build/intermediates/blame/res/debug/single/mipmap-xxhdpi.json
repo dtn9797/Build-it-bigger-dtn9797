@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

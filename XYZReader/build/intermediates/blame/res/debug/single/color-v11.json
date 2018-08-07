@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },

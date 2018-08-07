@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 611,
-                    "endColumn": 56,
-                    "endOffset": 663
+                    "endColumn": 69,
+                    "endOffset": 676
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 325,
-                        "endColumn": 56,
-                        "endOffset": 377
+                        "startOffset": 278,
+                        "endColumn": 69,
+                        "endOffset": 343
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 668,
-                    "endColumn": 52,
-                    "endOffset": 716
+                    "startOffset": 681,
+                    "endColumn": 70,
+                    "endOffset": 747
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 90,
-                        "endColumn": 52,
-                        "endOffset": 138
+                        "startOffset": 348,
+                        "endColumn": 70,
+                        "endOffset": 414
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 721,
-                    "endColumn": 54,
-                    "endOffset": 771
+                    "startOffset": 752,
+                    "endColumn": 71,
+                    "endOffset": 819
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 54,
-                        "endOffset": 138
+                        "startOffset": 419,
+                        "endColumn": 71,
+                        "endOffset": 486
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 776,
-                    "endColumn": 56,
-                    "endOffset": 828
+                    "startOffset": 824,
+                    "endColumn": 57,
+                    "endOffset": 877
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 143,
-                        "endColumn": 56,
-                        "endOffset": 195
+                        "startOffset": 491,
+                        "endColumn": 57,
+                        "endOffset": 544
                     }
                 }
             },
@@ -234,283 +234,69 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 833,
-                    "endColumn": 65,
-                    "endOffset": 894
+                    "startOffset": 882,
+                    "endColumn": 57,
+                    "endOffset": 935
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 259,
-                        "endColumn": 65,
-                        "endOffset": 320
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 899,
-                    "endColumn": 58,
-                    "endOffset": 953
-                },
-                "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 200,
-                        "endColumn": 58,
-                        "endOffset": 254
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 958,
-                    "endColumn": 51,
-                    "endOffset": 1005
-                },
-                "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 51,
-                        "endOffset": 83
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1010,
-                    "endColumn": 53,
-                    "endOffset": 1059
-                },
-                "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 53,
-                        "endOffset": 85
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1064,
-                    "endColumn": 41,
-                    "endOffset": 1101
-                },
-                "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 238,
-                        "endColumn": 41,
-                        "endOffset": 275
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 94,
-                    "endOffset": 1196
-                },
-                "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 143,
-                        "endColumn": 94,
-                        "endOffset": 233
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 68,
-                        "endOffset": 119
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
-                    "endColumn": 68,
-                    "endOffset": 188
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 124,
-                        "endColumn": 68,
-                        "endOffset": 188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 193,
-                    "endColumn": 69,
-                    "endOffset": 258
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 193,
-                        "endColumn": 69,
-                        "endOffset": 258
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 263,
-                    "endColumn": 73,
-                    "endOffset": 332
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 263,
-                        "endColumn": 73,
-                        "endOffset": 332
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 337,
-                    "endColumn": 75,
-                    "endOffset": 408
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 337,
-                        "endColumn": 75,
-                        "endOffset": 408
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 413,
-                    "endColumn": 58,
-                    "endOffset": 467
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 413,
-                        "endColumn": 58,
-                        "endOffset": 467
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 472,
-                    "endColumn": 70,
-                    "endOffset": 538
-                },
-                "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 472,
-                        "endColumn": 70,
-                        "endOffset": 538
+                        "startOffset": 549,
+                        "endColumn": 57,
+                        "endOffset": 602
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 543,
-                    "endColumn": 67,
-                    "endOffset": 606
+                    "startOffset": 940,
+                    "endColumn": 105,
+                    "endOffset": 1041
                 },
                 "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 543,
-                        "endColumn": 67,
-                        "endOffset": 606
+                        "startOffset": 607,
+                        "endColumn": 105,
+                        "endOffset": 708
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 611,
-                    "endColumn": 56,
-                    "endOffset": 663
+                    "startOffset": 1046,
+                    "endColumn": 52,
+                    "endOffset": 1094
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 52,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 56,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -522,14 +308,14 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 668,
+                    "startOffset": 1156,
                     "endColumn": 52,
-                    "endOffset": 716
+                    "endOffset": 1204
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -541,14 +327,14 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 721,
+                    "startOffset": 1209,
                     "endColumn": 54,
-                    "endOffset": 771
+                    "endOffset": 1259
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -560,14 +346,14 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 776,
+                    "startOffset": 1264,
                     "endColumn": 56,
-                    "endOffset": 828
+                    "endOffset": 1316
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -579,14 +365,14 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 833,
+                    "startOffset": 1321,
                     "endColumn": 65,
-                    "endOffset": 894
+                    "endOffset": 1382
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -598,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 899,
+                    "startOffset": 1387,
                     "endColumn": 58,
-                    "endOffset": 953
+                    "endOffset": 1441
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -617,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 958,
+                    "startOffset": 1446,
                     "endColumn": 51,
-                    "endOffset": 1005
+                    "endOffset": 1493
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -636,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1010,
+                    "startOffset": 1498,
                     "endColumn": 53,
-                    "endOffset": 1059
+                    "endOffset": 1547
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -655,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1064,
+                    "startOffset": 1552,
                     "endColumn": 41,
-                    "endOffset": 1101
+                    "endOffset": 1589
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -674,20 +460,60 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1106,
+                    "startOffset": 1594,
                     "endColumn": 94,
-                    "endOffset": 1196
+                    "endOffset": 1684
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
                         "startOffset": 143,
                         "endColumn": 94,
                         "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1689,
+                    "endColumn": 62,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 62,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1452
                     }
                 }
             }
