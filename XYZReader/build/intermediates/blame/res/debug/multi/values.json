@@ -251,14 +251,7 @@
                     "endOffset": 1413
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 946,
-                        "endColumn": 39,
-                        "endOffset": 981
-                    }
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1038,7 +1031,14 @@
                     "endOffset": 5803
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values/colors.xml"
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 46,
+                        "endOffset": 898
+                    }
                 }
             },
             {
@@ -2442,7 +2442,14 @@
                     "endOffset": 40268
                 },
                 "from": {
-                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values/dimens.xml"
+                    "file": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 43,
+                        "endOffset": 279
+                    }
                 }
             },
             {

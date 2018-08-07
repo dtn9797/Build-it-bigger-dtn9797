@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1533660246738"
+    timestamp="1533677678785"
     token="320359189558913034"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -70,7 +70,29 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1533659239385"
+        timestamp="1533659441433"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1533662183057"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1533675970433"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -78,24 +100,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1533659441433"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1533660246738"
+        timestamp="1533677678785"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/outputs/apk/XYZReader-debug.apk"
