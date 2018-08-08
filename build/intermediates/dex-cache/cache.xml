@@ -2,6 +2,15 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/4e965d581f42f547f490b2af336d4854a0d2f4ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/pre-dexed/debug/classes_126a45e217cc7068a067bc072e98d6cf46774701.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
@@ -21,21 +30,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2437472e9f207d639732955b1fb69fdfa8d4f852/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4932dfdacc4a5a556681d922498a419ac474cee3">
+        sha1="180b1545ede198ddd356b6e2285b60adae746bf1">
         <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1de31af99ceb669a6f84f55aac7a23fc3a8d9150/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/pre-dexed/debug/classes_e85b40fb84693fdf6a36c81342db33a9d838c642.jar" />
     </item>
     <item
         is-multidex="false"

@@ -60,6 +60,7 @@ public class ArticleListActivity extends ActionBarActivity implements
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
 
+//        ((CollapsingToolbarLayout) findViewById(R.id.main_collapsing)).setTitle("XYZ Reader");
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
