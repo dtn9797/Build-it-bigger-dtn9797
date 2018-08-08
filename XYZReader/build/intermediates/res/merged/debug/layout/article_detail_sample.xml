@@ -19,8 +19,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:contentScrim="@color/theme_primary_dark"
-                app:layout_scrollFlags="scroll|enterAlways"
-                >
+                app:layout_scrollFlags="scroll|enterAlways">
 
                 <ImageView
                     android:id="@+id/photo"
@@ -32,11 +31,11 @@
 
             </android.support.design.widget.CollapsingToolbarLayout>
 
-                <android.support.v7.widget.Toolbar
+            <android.support.v7.widget.Toolbar
                     android:layout_width="match_parent"
                     android:layout_height="?attr/actionBarSize"
                     app:layout_collapseMode="pin"
-                    app:layout_scrollFlags="scroll|enterAlways"
+                app:layout_scrollFlags="scroll|enterAlways"
                     app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
                 <LinearLayout

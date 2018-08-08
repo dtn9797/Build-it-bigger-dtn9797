@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1533764924221"
+    timestamp="1533771976656"
     token="320359189558913034"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -108,7 +108,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1533764924221"
+        timestamp="1533771976656"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/outputs/apk/XYZReader-debug.apk"
