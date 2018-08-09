@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Aug 08 19:55:06 CDT 2018
+#Thu Aug 09 00:34:39 CDT 2018
 210.set=ANDROID_RESOURCE
 282.file=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/resources-debug.ap_/res/color/abc_tint_spinner.xml
 14.set=ANDROID_RESOURCE
