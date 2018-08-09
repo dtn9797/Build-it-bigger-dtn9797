@@ -31,20 +31,6 @@ ADDED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-d
 		ADDED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
 ADDED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v13:25.3.0] /Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:palette-v7:25.3.0] /Users/duynguyen/.android/build-cache/2ba8c208d8d76d8ed2662e74fe0f5465d5aeafa3/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.0] /Users/duynguyen/.android/build-cache/43adb82a7400d5d7e54e8c78723caa753d3ec194/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:design:25.3.0] /Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/duynguyen/.android/build-cache/880ed39a156001155c7c3f428dbe39f3b949dbbd/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/duynguyen/.android/build-cache/8e5cd524dd8bc9be207ff944d2700e347ae05ebb/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.0] /Users/duynguyen/.android/build-cache/4e965d581f42f547f490b2af336d4854a0d2f4ce/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.0] /Users/duynguyen/.android/build-cache/2094d07735ac805ba0d9373d9e2ed8699731ce6e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] /Users/duynguyen/.android/build-cache/2ec9d27ccc0c672bbf8df61d3cd53856999702ba/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] /Users/duynguyen/.android/build-cache/568ac48d2f4ec8075baf90674847424c9a06e6ae/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] /Users/duynguyen/.android/build-cache/7fab51dbb6d29719f7e8545925d63d4a09655e70/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] /Users/duynguyen/.android/build-cache/b43eebbc4ba808254e5475e9f68a1d87af56ace7/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.0] /Users/duynguyen/.android/build-cache/dfe437d102a72e9e1806efe09dcee7a39bba7988/output/AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -111,46 +97,28 @@ ADDED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-d
 		ADDED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:25.3.0] /Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:palette-v7:25.3.0] /Users/duynguyen/.android/build-cache/2ba8c208d8d76d8ed2662e74fe0f5465d5aeafa3/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.0] /Users/duynguyen/.android/build-cache/43adb82a7400d5d7e54e8c78723caa753d3ec194/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.3.0] /Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/duynguyen/.android/build-cache/880ed39a156001155c7c3f428dbe39f3b949dbbd/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/duynguyen/.android/build-cache/8e5cd524dd8bc9be207ff944d2700e347ae05ebb/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/duynguyen/.android/build-cache/2e110453b57006706769802543bfd63817b72d68/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.0] /Users/duynguyen/.android/build-cache/4e965d581f42f547f490b2af336d4854a0d2f4ce/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.0] /Users/duynguyen/.android/build-cache/2094d07735ac805ba0d9373d9e2ed8699731ce6e/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] /Users/duynguyen/.android/build-cache/2ec9d27ccc0c672bbf8df61d3cd53856999702ba/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] /Users/duynguyen/.android/build-cache/568ac48d2f4ec8075baf90674847424c9a06e6ae/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] /Users/duynguyen/.android/build-cache/7fab51dbb6d29719f7e8545925d63d4a09655e70/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] /Users/duynguyen/.android/build-cache/b43eebbc4ba808254e5475e9f68a1d87af56ace7/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.0] /Users/duynguyen/.android/build-cache/dfe437d102a72e9e1806efe09dcee7a39bba7988/output/AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.3.0] /Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/AndroidManifest.xml:23:9-52
+MERGED from [com.android.support:support-v13:27.1.1] /Users/duynguyen/.android/build-cache/b8e2c7883a9f1af28a21024b63bf7836b5b9829b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/duynguyen/.android/build-cache/79ea1ac3011856bc17f50aa5c64bc3f1e83dd917/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/duynguyen/.android/build-cache/64f9b8d61bfd42f5eab015565850bc9429b2f8b6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/duynguyen/.android/build-cache/1ca46fefaea99c561f41eb428bc467bd4d1c7dd1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/duynguyen/.android/build-cache/559b0000714cbbab4b3e307bdac9c4aba03ffaf2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/duynguyen/.android/build-cache/455a94d2323970d5d45a362aa134d99c91c6da89/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/duynguyen/.android/build-cache/26d1c0b6290a1e0022f0cccc6b2aa35b9eef40b5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/duynguyen/.android/build-cache/28bab32382fe8f9fe9cccaf706a99d1520a2efa7/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/duynguyen/.android/build-cache/72d27af62d4b30ef1ccf1ea9a964b9cc79c998cf/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/duynguyen/.android/build-cache/73c85d9dcbcf60410ee0e6940234e762a827e85b/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/duynguyen/.android/build-cache/3c10070ab3608f5995a61725a2a0dcc9e2203643/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/duynguyen/.android/build-cache/ef9c95b563c66699b40b1d3e163cbc2496e0164a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/duynguyen/.android/build-cache/6f2c77fa7a2b40c3f0c3ae5baaf5ee0af47f1808/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/duynguyen/.android/build-cache/66a8f1837daa0dc060ead4d1dc61912933bdaa7f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/duynguyen/.android/build-cache/5d87ce7f2a8803aaf5bf126902d11ee107af2762/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/duynguyen/.android/build-cache/280501f68f886bfda8c0267d978daef4f52fce63/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/duynguyen/.android/build-cache/08167c87cfff36d64a1a6f89bd7a4a8e0399e6aa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/duynguyen/.android/build-cache/b872650275932bbed1e995200e3876256cd22764/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/duynguyen/.android/build-cache/9f91235000f9f1c925b0b2a749261d2e034ed537/output/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v13:25.3.0] /Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:palette-v7:25.3.0] /Users/duynguyen/.android/build-cache/2ba8c208d8d76d8ed2662e74fe0f5465d5aeafa3/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.0] /Users/duynguyen/.android/build-cache/43adb82a7400d5d7e54e8c78723caa753d3ec194/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.0] /Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/duynguyen/.android/build-cache/d23d25699af1d573eefff1b05d801050b2987cce/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/duynguyen/.android/build-cache/880ed39a156001155c7c3f428dbe39f3b949dbbd/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/duynguyen/.android/build-cache/8e5cd524dd8bc9be207ff944d2700e347ae05ebb/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/duynguyen/.android/build-cache/2e110453b57006706769802543bfd63817b72d68/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.0] /Users/duynguyen/.android/build-cache/4e965d581f42f547f490b2af336d4854a0d2f4ce/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.0] /Users/duynguyen/.android/build-cache/2094d07735ac805ba0d9373d9e2ed8699731ce6e/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] /Users/duynguyen/.android/build-cache/2ec9d27ccc0c672bbf8df61d3cd53856999702ba/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] /Users/duynguyen/.android/build-cache/568ac48d2f4ec8075baf90674847424c9a06e6ae/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] /Users/duynguyen/.android/build-cache/7fab51dbb6d29719f7e8545925d63d4a09655e70/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] /Users/duynguyen/.android/build-cache/b43eebbc4ba808254e5475e9f68a1d87af56ace7/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] /Users/duynguyen/.android/build-cache/dfe437d102a72e9e1806efe09dcee7a39bba7988/output/AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:support-v13:25.3.0] /Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:support-v13:25.3.0] /Users/duynguyen/.android/build-cache/55e4bbe7677dd4c2bc1a9fcef1216a6c85496254/output/AndroidManifest.xml:26:9-47

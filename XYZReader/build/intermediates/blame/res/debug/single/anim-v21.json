@@ -1,7 +1,7 @@
 [
     {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "source": "/Users/duynguyen/.android/build-cache/1ca46fefaea99c561f41eb428bc467bd4d1c7dd1/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
@@ -9,6 +9,6 @@
     },
     {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "source": "/Users/duynguyen/.android/build-cache/1ca46fefaea99c561f41eb428bc467bd4d1c7dd1/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]
