@@ -126,14 +126,14 @@
                     "endOffset": 615
                 },
                 "from": {
-                    "file": "/Users/duynguyen/.android/build-cache/87ed171abfbc0cc6811f04856886c12ef23e3e4f/output/res/values-land/values-land.xml",
+                    "file": "/Users/duynguyen/.android/build-cache/6a76e7097e908d73c68e4181c69b26fb93d11890/output/res/values-land/values-land.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 275,
-                        "endLine": 7,
+                        "startOffset": 55,
+                        "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 452
+                        "endOffset": 232
                     }
                 }
             }

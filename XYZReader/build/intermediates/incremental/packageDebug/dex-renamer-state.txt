@@ -1,7 +1,4 @@
-#Wed Aug 08 18:46:18 CDT 2018
-base.0=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf1e91fa80057d52eb6eae90df6e52d228a0d7d7
-renamed.1=classes2.dex
+#Wed Aug 08 19:32:32 CDT 2018
+base.0=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1de31af99ceb669a6f84f55aac7a23fc3a8d9150/classes.dex
-base.1=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1de31af99ceb669a6f84f55aac7a23fc3a8d9150
-file.0=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf1e91fa80057d52eb6eae90df6e52d228a0d7d7/classes.dex
+file.0=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
