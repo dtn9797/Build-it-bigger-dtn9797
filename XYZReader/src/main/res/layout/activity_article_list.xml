@@ -14,9 +14,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/theme_primary_dark"
-            app:expandedTitleMarginStart="20dp"
-            app:collapsedTitleTextAppearance="@style/CollapsedTitle"
-            app:expandedTitleTextAppearance="@style/ExpandedTitle"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
             <android.support.v7.widget.Toolbar

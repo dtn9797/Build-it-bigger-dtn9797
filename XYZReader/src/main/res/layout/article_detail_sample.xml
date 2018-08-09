@@ -28,14 +28,13 @@
                     android:scaleType="centerCrop"
                     app:layout_collapseMode="parallax" />
 
-            </android.support.design.widget.CollapsingToolbarLayout>
+                <android.support.v7.widget.Toolbar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_collapseMode="pin"
+                    app:popupTheme="@style/ThemeOverlay.AppCompat.Dark" />
 
-            <android.support.v7.widget.Toolbar
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:layout_collapseMode="pin"
-                app:layout_scrollFlags="scroll|enterAlways"
-                app:popupTheme="@style/ThemeOverlay.AppCompat.Dark" />
+            </android.support.design.widget.CollapsingToolbarLayout>
 
             <LinearLayout
                 android:id="@+id/meta_bar"
