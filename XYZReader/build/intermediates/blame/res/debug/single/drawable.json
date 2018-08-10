@@ -16,12 +16,12 @@
         "source": "/Users/duynguyen/.android/build-cache/26d1c0b6290a1e0022f0cccc6b2aa35b9eef40b5/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/duynguyen/.android/build-cache/26d1c0b6290a1e0022f0cccc6b2aa35b9eef40b5/output/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/duynguyen/.android/build-cache/26d1c0b6290a1e0022f0cccc6b2aa35b9eef40b5/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/duynguyen/.android/build-cache/26d1c0b6290a1e0022f0cccc6b2aa35b9eef40b5/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
@@ -174,6 +174,10 @@
     {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/Users/duynguyen/.android/build-cache/1ca46fefaea99c561f41eb428bc467bd4d1c7dd1/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/scrim.xml",
+        "source": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/src/main/res/drawable/scrim.xml"
     },
     {
         "merged": "/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",

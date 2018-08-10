@@ -1,4 +1,4 @@
-#Thu Aug 09 00:34:39 CDT 2018
+#Thu Aug 09 20:04:49 CDT 2018
 base.0=/Users/duynguyen/Desktop/Spring 2018/Android Studio/Build-it-bigger-dtn9797/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf1e91fa80057d52eb6eae90df6e52d228a0d7d7
 renamed.1=classes2.dex
 renamed.0=classes.dex
