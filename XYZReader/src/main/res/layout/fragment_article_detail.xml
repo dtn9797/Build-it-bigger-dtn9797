@@ -2,7 +2,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/background_light">
+    android:background="@android:color/background_light"
+    android:fitsSystemWindows="true">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -10,13 +11,15 @@
         android:theme="@color/theme_primary">
 
         <android.support.design.widget.CollapsingToolbarLayout
-            android:id="@+id/detailedF_collapsing_toolbar"
+            android:id="@+id/collapsingToolbar"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:collapsedTitleGravity="end"
+            android:fitsSystemWindows="true"
             app:contentScrim="@color/theme_primary"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            android:fitsSystemWindows="true">
+            app:collapsedTitleTextAppearance="@style/CollapsedTitle"
+            app:expandedTitleTextAppearance="@style/ExpandedTitle"
+            app:title="HELLO WORD"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
             <ImageView
                 android:id="@+id/photo"
@@ -31,46 +34,62 @@
                 android:layout_height="match_parent"
                 android:background="@drawable/scrim" />
 
-
-            <TextView
-                android:id="@+id/article_byline"
-                style="?android:attr/textAppearanceSmall"
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/gtgray"
-                android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
-                android:textSize="@dimen/detail_body_text_size"
-                android:text="SUBTITLE"
-                android:gravity="bottom|left"
-                android:layout_marginStart="56dp"
-                app:layout_scrollFlags="scroll|enterAlways"
-                android:layout_gravity="bottom" />
-
-            <android.support.v7.widget.Toolbar
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:minHeight="?attr/actionBarSize"
-                app:layout_collapseMode="pin"
-                app:popupTheme="@color/theme_primary_dark"
                 android:layout_gravity="bottom"
-                android:fitsSystemWindows="true">
+                android:orientation="vertical">
 
                 <TextView
                     android:id="@+id/article_title"
                     style="?android:attr/textAppearanceLarge"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="ABC DEDASDDA"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginTop="8dp"
                     android:fontFamily="sans-serif-condensed"
                     android:lineSpacingMultiplier="0.9"
-                    android:textColor="#fff"
-                    android:textStyle="bold"
-                    android:textSize="@dimen/detail_title_text_size"
                     android:padding="24dp"
-                    android:layout_marginTop="8dp"
-                    android:layout_marginStart="24dp" />
+                    android:text="ABC DEDASDDA"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/detail_title_text_size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/article_byline"
+                    style="?android:attr/textAppearanceSmall"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginStart="56dp"
+                    android:gravity="bottom|left"
+                    android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
+                    android:text="SUBTITLE"
+                    android:textColor="@color/gtgray"
+                    android:textSize="@dimen/detail_body_text_size"
+                    app:layout_scrollFlags="scroll|enterAlways" />
+
+            </LinearLayout>
+
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:layout_collapseMode="pin">
+
+                <ImageButton
+                    android:id="@+id/action_up"
+                    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                    android:layout_width="56dp"
+                    android:layout_height="?actionBarSize"
+                    android:background="?selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/up"
+                    android:src="@drawable/ic_arrow_back" />
 
             </android.support.v7.widget.Toolbar>
+
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
@@ -123,11 +142,4 @@
         app:rippleColor="@color/black" />
 
 </android.support.design.widget.CoordinatorLayout>
-
-
-    <!--<android.support.design.widget.CollapsingToolbarLayout--><!--android:id="@+id/detailedF_collapsing_toolbar"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent"--><!--app:contentScrim="@color/theme_primary_dark"--><!--android:fitsSystemWindows="true"--><!--app:layout_scrollFlags="scroll|exitUntilCollapsed">-->
-
-    <!--<ImageView--><!--android:id="@+id/photo"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent"--><!--android:adjustViewBounds="true"--><!--android:scaleType="centerCrop"--><!--app:layout_collapseMode="parallax" />-->
-
-    <!--<android.support.v7.widget.Toolbar--><!--android:layout_width="match_parent"--><!--android:minHeight=""--><!--android:minb="?attr/actionBarSize"--><!--app:layout_collapseMode="pin"--><!--app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >-->
 
